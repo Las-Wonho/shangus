@@ -1,0 +1,12 @@
+C:\Users\선우\source\repos\FreeNet_server_sourcecode\FreeNet\bin\Debug\FreeNet.dll
+C:\Users\선우\source\repos\FreeNet_server_sourcecode\FreeNet\bin\Debug\FreeNet.pdb
+C:\Users\선우\source\repos\FreeNet_server_sourcecode\FreeNet\obj\Debug\FreeNet.csprojResolveAssemblyReference.cache
+C:\Users\선우\source\repos\FreeNet_server_sourcecode\FreeNet\obj\Debug\FreeNet.csproj.CoreCompileInputs.cache
+C:\Users\선우\source\repos\FreeNet_server_sourcecode\FreeNet\obj\Debug\FreeNet.dll
+C:\Users\선우\source\repos\FreeNet_server_sourcecode\FreeNet\obj\Debug\FreeNet.pdb
+C:\Users\선우\source\repos\cs_txt_sever\FreeNet\bin\Debug\FreeNet.dll
+C:\Users\선우\source\repos\cs_txt_sever\FreeNet\bin\Debug\FreeNet.pdb
+C:\Users\선우\source\repos\cs_txt_sever\FreeNet\obj\Debug\FreeNet.csprojResolveAssemblyReference.cache
+C:\Users\선우\source\repos\cs_txt_sever\FreeNet\obj\Debug\FreeNet.csproj.CoreCompileInputs.cache
+C:\Users\선우\source\repos\cs_txt_sever\FreeNet\obj\Debug\FreeNet.dll
+C:\Users\선우\source\repos\cs_txt_sever\FreeNet\obj\Debug\FreeNet.pdb

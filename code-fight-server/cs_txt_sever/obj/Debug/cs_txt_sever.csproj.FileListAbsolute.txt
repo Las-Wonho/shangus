@@ -1,0 +1,16 @@
+c:\users\선우\source\repos\cs_txt_sever\cs_txt_sever\bin\Debug\cs_txt_sever.exe
+c:\users\선우\source\repos\cs_txt_sever\cs_txt_sever\bin\Debug\cs_txt_sever.pdb
+c:\users\선우\source\repos\cs_txt_sever\cs_txt_sever\obj\Debug\cs_txt_sever.csprojResolveAssemblyReference.cache
+c:\users\선우\source\repos\cs_txt_sever\cs_txt_sever\obj\Debug\cs_txt_sever.csproj.CoreCompileInputs.cache
+c:\users\선우\source\repos\cs_txt_sever\cs_txt_sever\obj\Debug\cs_txt_sever.exe
+c:\users\선우\source\repos\cs_txt_sever\cs_txt_sever\obj\Debug\cs_txt_sever.pdb
+C:\Users\선우\source\repos\cs_txt_sever\cs_txt_sever\bin\Debug\FreeNet.dll
+C:\Users\선우\source\repos\cs_txt_sever\cs_txt_sever\bin\Debug\FreeNet.pdb
+C:\Users\haho6\Desktop\code-fight-server\cs_txt_sever\bin\Debug\cs_txt_sever.exe
+C:\Users\haho6\Desktop\code-fight-server\cs_txt_sever\bin\Debug\cs_txt_sever.pdb
+C:\Users\haho6\Desktop\code-fight-server\cs_txt_sever\bin\Debug\FreeNet.dll
+C:\Users\haho6\Desktop\code-fight-server\cs_txt_sever\bin\Debug\FreeNet.pdb
+C:\Users\haho6\Desktop\code-fight-server\cs_txt_sever\obj\Debug\cs_txt_sever.csprojResolveAssemblyReference.cache
+C:\Users\haho6\Desktop\code-fight-server\cs_txt_sever\obj\Debug\cs_txt_sever.csproj.CoreCompileInputs.cache
+C:\Users\haho6\Desktop\code-fight-server\cs_txt_sever\obj\Debug\cs_txt_sever.exe
+C:\Users\haho6\Desktop\code-fight-server\cs_txt_sever\obj\Debug\cs_txt_sever.pdb
