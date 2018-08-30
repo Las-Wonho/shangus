@@ -1,11 +1,9 @@
 ﻿using FreeNet;
-
-namespace WindowsFormsApp11
+namespace CodeFight
 {
     class CRemoteServerPeer : IPeer
     {
         public CUserToken token { get; private set; }
-
         public CRemoteServerPeer(CUserToken token)
         {
             this.token = token;
@@ -20,7 +18,7 @@ namespace WindowsFormsApp11
             {
                 case PROTOCOL.CHAT_MSG_ACK:
                     {
-                        Program.get_text = msg.pop_string();
+                        get.a = msg.pop_string();
                         //Console.WriteLine(string.Format("{0}", text));
                         //MessageBox.Show(Program.get_text);
                     }

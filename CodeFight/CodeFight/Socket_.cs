@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Net;
 
-namespace WindowsFormsApp11
+namespace CodeFight
 {
     class Socket_
     {

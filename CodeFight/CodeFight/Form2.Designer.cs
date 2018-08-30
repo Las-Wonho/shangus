@@ -34,12 +34,12 @@
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.user1 = new System.Windows.Forms.Label();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.languege = new System.Windows.Forms.ComboBox();
             this.giveup = new System.Windows.Forms.Button();
             this.compileButton = new System.Windows.Forms.Button();
             this.compilerResultBox = new System.Windows.Forms.TextBox();
             this.questionBox = new System.Windows.Forms.TextBox();
             this.user2 = new System.Windows.Forms.Label();
-            this.languege = new System.Windows.Forms.ComboBox();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
@@ -70,7 +70,6 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(587, 354);
             this.textBox1.TabIndex = 2;
-            this.textBox1.Visible = false;
             // 
             // user1
             // 
@@ -96,6 +95,21 @@
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(963, 548);
             this.panel1.TabIndex = 4;
+            // 
+            // languege
+            // 
+            this.languege.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
+            this.languege.FormattingEnabled = true;
+            this.languege.Items.AddRange(new object[] {
+            "C",
+            "C++",
+            "Java",
+            "Python2",
+            "Python3"});
+            this.languege.Location = new System.Drawing.Point(37, 32);
+            this.languege.Name = "languege";
+            this.languege.Size = new System.Drawing.Size(121, 20);
+            this.languege.TabIndex = 9;
             // 
             // giveup
             // 
@@ -146,25 +160,11 @@
             this.user2.TabIndex = 4;
             this.user2.Text = "label2";
             // 
-            // languege
-            // 
-            this.languege.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
-            this.languege.FormattingEnabled = true;
-            this.languege.Items.AddRange(new object[] {
-            "C",
-            "C++",
-            "Java",
-            "Python2",
-            "Python3"});
-            this.languege.Location = new System.Drawing.Point(37, 32);
-            this.languege.Name = "languege";
-            this.languege.Size = new System.Drawing.Size(121, 20);
-            this.languege.TabIndex = 9;
-            // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.ClientSize = new System.Drawing.Size(963, 548);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.label1);

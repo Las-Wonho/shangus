@@ -20,6 +20,7 @@ namespace CodeFight
 
         private void button1_Click(object sender, EventArgs e)
         {
+            Socket_.post("match "+userName);
             userName = textBox1.Text; 
             this.Visible = false;
             Form2 frm = new Form2(userName);
